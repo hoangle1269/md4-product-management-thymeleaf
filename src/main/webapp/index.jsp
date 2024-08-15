@@ -10,7 +10,7 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <a href="products">Products</a>
-<a href="index">Indexhtml</a>
+
 
 </body>
 </html>
